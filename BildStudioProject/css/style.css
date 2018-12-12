@@ -1,0 +1,83 @@
+#pozadina {
+    width: 100%;
+}
+
+#uredjaji {
+    margin-top: -60%;
+    margin-left: 15%;
+}
+
+#portfolio {
+    background-color: white;
+    position: relative;
+    margin-bottom: 0;
+}
+
+#video {
+    position: relative;
+}
+
+.opacity {
+    opacity: 0.50;
+}
+
+.opacity:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+.sakriti {
+    display: none;
+}
+
+#foot {
+    background-color: rgb(49,48,46);
+}
+
+.tekst {
+    color: white;
+}
+
+.dugme {
+    background-color: rgb(45,204,114);
+    color: white;
+    margin-left: 35%;
+}
+
+.linkovi {
+    background-color: white;
+}
+
+.granica {
+    border-left-width: 0px !important;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-width: 0px !important;
+}
+
+#browsePortfolio {
+    margin-left: 28% !important;
+    background-color: rgb(45,204,114) !important;
+    color: white !important;
+}
+
+#about {
+    background-color: rgb(45,204,114) !important;
+    color: white !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+  #myModal {
+    animation: fadeIn 2s;
+  }
+  @keyframes fadeIn {
+  
+    from {
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+  
+  }  
